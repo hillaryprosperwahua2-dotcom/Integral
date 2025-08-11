@@ -1,0 +1,192 @@
+{
+  "properties": [
+    {
+      "id": "#0000000001",
+      "price": 650000,
+      "location": "JONES HOUSE",
+      "image": "1.jpg",
+      "deal": "Rental",
+      "duration": "4year",
+      "size": "4 bedroom",
+      "utilities": "4 bathrooms",
+      "watching": 0,
+      "favourite": true
+    },
+    {
+      "id": "#0000000002",
+      "price": 5000000,
+      "image": "2.jpg",
+      "location": "No.3 palace Rd. Choba ",
+      "deal": "Purchase",
+      "duration": "1 year",
+      "size": "3 bedroom",
+      "utilities": {
+        "room": 2,
+        "bath": 3,
+        "floor": "bungalow"
+      },
+      "watching": 0,
+      "favourite": true
+    },
+    {
+      "id": "#0000000003",
+      "price": 6500000,
+      "image": "3.jpg",
+      "location": "No.3 palace Rd. Choba ",
+      "deal": "Rental",
+      "duration": "1 year",
+      "size": "3 bedroom",
+      "utilities": {
+        "room": 2,
+        "bath": 3,
+        "floor": "bungalow"
+      },
+      "watching": 0,
+      "favourite": true
+    },
+    {
+      "id": "#0000000004",
+      "price": 650000,
+      "image": "4.jpg",
+      "location": "No.3 palace Rd. Choba ",
+      "deal": "Purchase",
+      "duration": "1 year",
+      "size": "4 bedroom",
+      "utilities": {
+        "room": 2,
+        "bath": 3,
+        "floor": "bungalow"
+      },
+      "watching": 0,
+      "favourite": true
+    },
+    {
+      "id": "#0000000005",
+      "price": 650000,
+      "image": "5.jpg",
+      "location": "No.3 palace Rd. Choba ",
+      "deal": "Purchase",
+      "duration": "1 year",
+      "size": "5 bedroom",
+      "utilities": {
+        "room": 2,
+        "bath": 3,
+        "floor": "bungalow"
+      },
+      "watching": 0,
+      "favourite": true
+    },
+    {
+      "id": "#0000000006",
+      "price": 54000000,
+      "image": "6.jpg",
+      "location": "No.3 palace Rd. Choba ",
+      "deal": "Rental",
+      "duration": "1 year",
+      "size": "2 bedroom",
+      "utilities": {
+        "room": 2,
+        "bath": 3,
+        "floor": "bungalow"
+      },
+      "watching": 0,
+      "favourite": true
+    },
+    {
+      "id": "#0000000007",
+      "price": 4000000,
+      "image": "7.jpg",
+      "location": "No.3 palace Rd. Choba ",
+      "deal": "Purchase",
+      "duration": "2 year",
+      "size": "3 bedroom",
+      "utilities": {
+        "room": 2,
+        "bath": 3,
+        "floor": "bungalow"
+      },
+      "watching": 0,
+      "favourite": true
+    },
+    {
+      "id": "#0000000008",
+      "price": 400000,
+      "image": "8.jpg",
+      "location": "No.3 palace Rd. Choba ",
+      "deal": "Purchase",
+      "duration": "4 year",
+      "size": "6 bedroom",
+      "utilities": {
+        "room": 2,
+        "bath": 3,
+        "floor": "bungalow"
+      },
+      "watching": 0,
+      "favourite": true
+    },
+    {
+      "id": "#0000000009",
+      "price": 8500000,
+      "image": "9.jpg",
+      "location": "No.3 palace Rd. Choba ",
+      "deal": "Purchase",
+      "duration": "5 year",
+      "size": "1 bedroom",
+      "utilities": {
+        "room": 2,
+        "bath": 3,
+        "floor": "bungalow"
+      },
+      "watching": 0,
+      "favourite": true
+    },
+    {
+      "id": "#00000000010",
+      "price": 380000,
+      "image": "10.jpg",
+      "location": "No.3 palace Rd. Choba ",
+      "deal": "Purchase",
+      "duration": "3 year",
+      "size": "2 bedroom",
+      "utilities": {
+        "room": 2,
+        "bath": 3,
+        "floor": "bungalow"
+      },
+      "watching": 0,
+      "favourite": true
+    },
+    {
+      "id": "#0000000011",
+      "price": 650000,
+      "image": "11.jpg",
+      "location": "No.3 palace Rd. Choba ",
+      "deal": "Purchase",
+      "duration": "1 year",
+      "size": "4 bedroom",
+      "utilities": {
+        "room": 2,
+        "bath": 3,
+        "floor": "bungalow"
+      },
+      "watching": 0,
+      "favourite": true
+    },
+    {
+      "id": "#00000000012",
+      "price": 650000,
+      "image": "12.jpg",
+      "location": "No.3 palace Rd. Choba ",
+      "deal": "Purchase",
+      "duration": "4 year",
+      "size": "6 bedroom",
+      "utilities": {
+        "room": 2,
+        "bath": 3,
+        "floor": "bungalow"
+      },
+      "watching": 0,
+      "favourite": true
+    }
+  ]
+}
