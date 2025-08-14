@@ -3,7 +3,7 @@ import { signIn, useSession } from 'next-auth/react'; // ✅ Added useSession
 
 
 import React, { useState } from 'react';
-import { signIn } from 'next-auth/react'
+
 
 const Signin = () => {
     const [userInfo, setUserInfo] = useState({ email: '', password: '' })
