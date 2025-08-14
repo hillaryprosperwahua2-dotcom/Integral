@@ -12,7 +12,7 @@ export const metadata = {
 const layout = ({ children }) => {
     return (
         <React.Fragment>
-            <html >
+            <html lang="en">
                 <body>
                     <Provider>
                         {children}

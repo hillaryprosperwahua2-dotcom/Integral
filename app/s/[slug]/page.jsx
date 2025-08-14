@@ -4,7 +4,24 @@ import BigCarousels from '@/components/Utilities/Carousels/BigCarousels'
 import HeaderQuery from '@/components/Utilities/Search/HeaderQuery'
 import React from 'react'
 
-const page = () => {
+const getUser = async ({ slug }) => {
+    try {
+        const users = await fetch(`${process.env.NEXTAUTH_URL}/api/auth/user`,{
+            method: 'POST',
+            body: JSON.stringify(slug)
+        })
+        return users
+    } catch (error) {
+        console.log(error)
+    }
+}
+
+const page = async ({ params }) => {
+    const paramsData = await params
+    const slug = paramsData.slug
+    const user = await getUser({ slug })
+
+ console.log('This is User', user)
     return (
         <React.Fragment>
             <HeaderRest />
@@ -29,3 +46,4 @@ const page = () => {
 }
 
 export default page
+
